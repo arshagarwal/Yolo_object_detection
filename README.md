@@ -17,7 +17,7 @@ where your code was cloned.
 
 
 ## The code can also be run on google colab by performing the following steps:
-0.`!pip uninstall tensorflow`, Then run `!pip install tensorflow=={1.14}`, to use tensorflow1.14 instead of tensorflow2.2.
+0. `!pip uninstall tensorflow`, Then run `!pip install tensorflow=={1.14}`, to use tensorflow1.14 instead of tensorflow2.2.
 1. Clone the repsoitory using `!git clone https://github.com/arshagarwal/Yolo_object_detection.git`.
 2. Run `cd /content/Yolo_object_detection` to navigate to the project's working directory.
 3. Run the command `!wget -P weights https://pjreddie.com/media/files/yolov3.weights` to download the official weights.
@@ -25,7 +25,7 @@ where your code was cloned.
 5. The results obtained after performing **Object Detection** gets stored in **results** directory which in turn is in the same directory 
 where your code was cloned.
 
-##The results can be saved locally on your computer by perfoming the following steps:
+## The results can be saved locally on your computer by perfoming the following steps:
 1. Create a zip file by running the code `Code to be added soon`
 2. Download file by running `Code to be added soon`
 
