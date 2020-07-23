@@ -1,5 +1,7 @@
 # Yolo_object_detection
-
+## Here are the results produced when you run the code on "Sample_dataset" provided in the repository.
+![detected image](https://github.com/arshagarwal/Yolo_object_detection/blob/master/Sample_results/check.jpg)
+![detected image 2](https://github.com/arshagarwal/Yolo_object_detection/blob/master/Sample_results/dog.jpg)
 ## Yolov3 in Tensorflow
 This project is based on the algorithm proposed in the paper **Yolov3: An Incremental Improvement** [Yolov3](https://arxiv.org/abs/1804.02767).
 
